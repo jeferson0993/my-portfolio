@@ -1,4 +1,4 @@
-*Psst — looking for a shareable component template? Go here --> [sveltejs/component-template](https://github.com/sveltejs/component-template)*
+## To see live demo go here --> [DEMO](https://my-portfolio-2ztccfp9n.now.sh/)*
 
 ---
 
