@@ -6,29 +6,29 @@
   
   html,
   body {
-	margin: 0;
-	padding: 0;
-	font-family: Arial, Helvetica, sans-serif;
-	scroll-behavior: smooth;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    scroll-behavior: smooth;
   }
   .main-bgcolor {
-	background-image: var(--gradient);
+	  background-image: var(--gradient);
   }
   .light-color {
-	color: var(--light) !important;
+	  color: var(--light) !important;
   }
   .grey-bgcolor {
-	background: var(--grey);
+	  background: var(--grey);
   }
   .company_brand {
-	font-size: x-large;
-	font-family: cursive;
+    font-size: x-large;
+    font-family: cursive;
   }
   
   .section {
-	padding: 50px 0;
+	  padding: 50px 0;
   }
   
   .section-body {
-	padding: 20px 0;
+	  padding: 20px 0;
   }
