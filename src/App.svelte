@@ -3,7 +3,7 @@
   import Navbar from "./components/navbar/Navbar.svelte";
   import Banner from "./components/banner/Banner.svelte";
   import About from "./components/about/About.svelte";
-  import Projects_Web from "./components/projects/Projects_Web.svelte";
+  import ProjectsWeb from "./components/projects/ProjectsWeb.svelte";
 </script>
 
 <style>
@@ -32,7 +32,7 @@
   <About aboutData={DATA.ABOUT_DATA} />
 
   <!-- Projects Web -->
-  <Projects_Web projectsWebData={DATA.WEB_DATA} />
+  <ProjectsWeb projectsWebData={DATA.WEB_DATA} />
 
   <p>
     <a href="https://svelte.dev/docs">Svelte docs</a>
